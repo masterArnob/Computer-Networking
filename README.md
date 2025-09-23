@@ -119,7 +119,7 @@
    ping 192.168.20.3
    ```
 
-![class8](/static_nat.png)
+![class8](/assets/static_nat.png)
 
 
 
