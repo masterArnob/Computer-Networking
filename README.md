@@ -17,7 +17,7 @@
    - Add static route with next hop
    - Example: `ip route 192.168.2.0 255.255.255.0 192.168.1.2`
    
-![class5](/5.static_routing.png)
+![class5](/assets/5.static_routing.png)
 <!--  <img src="https://github.com/masterArnob/CN-Lab/blob/main/class%205.png" /> -->
 
 
