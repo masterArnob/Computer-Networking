@@ -74,7 +74,11 @@
    
    ```
 
-![class7](/class_7.png)
+![class7](asset/ospf.png)
+![class7](asset/ospf_1.png)
+![class7](asset/ospf_2.png)
+![class7](asset/ospf_3.png)
+![class7](asset/ospf_4.png)
 
 
 
