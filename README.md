@@ -78,7 +78,7 @@
 ![class7](/assets/ospf_1.png)
 ![class7](/assets/ospf_2.png)
 ![class7](/assets/ospf_3.png)
-![class7](/assets/ospf_4.png)
+
 
 
 
