@@ -39,10 +39,10 @@
 4. **Add rip route**
    - Navigate to routing configuration
 
-![class6](/assets/5.rip_1.png)
-![class6](/assets/5.rip_2.png)
-![class6](/assets/5.rip_3.png)
-![class6](/assets/5.rip_4.png)
+![class6](/assets/6.rip_1.png)
+![class6](/assets/6.rip_2.png)
+![class6](/assets/6.rip_3.png)
+![class6](/assets/6.rip_4.png)
 
 
 
