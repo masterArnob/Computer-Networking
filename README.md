@@ -39,6 +39,9 @@
    - turn on mail server
    - add domail andother info
    - send email from 1 pc to another
+![class5](/assets/dhcp.png)
+![class5](/assets/email-1.png)
+![class5](/assets/email-2.png)
 
 4. **Add static route**
    - Navigate to routing configuration
