@@ -1,3 +1,44 @@
+## Class-1-5: Servers
+1.DHCP Serveer
+1. Web Server
+2. DNS Server
+4. Mail Server
+5. FTP Server
+
+
+1. **DHCP Serveer**
+   - Connect routers and devices physically
+   - Ensure proper cable connections
+   - go to dhcp turn on dhcp and set up
+   - go to f0/0 of 1st router
+   ```
+   ip helper-address dhcp_address
+   ip helper-address 192.168.10.2
+   ```
+   - go to f0/1
+    ```
+   ip helper-address dhcp_address
+   ip helper-address 192.168.10.2
+   ```
+   - then turn device ip address statci to dhcp
+
+2. **Router WIC-2T and router restart**
+   - Install WIC-2T module if needed
+   - Restart router to recognize new hardware
+
+3. **Give IP address**
+   - Configure IP addresses on interfaces
+   - Example: `interface GigabitEthernet0/0 ip address 192.168.1.1 255.255.255.0`
+
+4. **Add static route**
+   - Navigate to routing configuration
+   - Add static route with next hop
+   - Example: `ip route 192.168.2.0 255.255.255.0 192.168.1.2`
+   
+![class5](/assets/5.static_routing.png)
+
+
+
 ## Class-5: Static Routing Setup
 
 1. **Setup devices and connect using wires**
