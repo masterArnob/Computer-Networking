@@ -21,6 +21,9 @@
    ip helper-address 192.168.10.2
    ```
    - then turn device ip address statci to dhcp
+   ![class5](/assets/dhcp.png)
+![class5](/assets/dhcp-1.png)
+![class5](/assets/dhcp-2.png)
 
 2. **Router WIC-2T and router restart**
    - Install WIC-2T module if needed
