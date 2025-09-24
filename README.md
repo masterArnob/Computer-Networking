@@ -6,7 +6,7 @@
 5. FTP Server
 
 
-1. **DHCP Serveer**
+1. **DHCP Server**
    - Connect routers and devices physically
    - Ensure proper cable connections
    - go to dhcp turn on dhcp and set up
@@ -34,9 +34,11 @@
 ![class5](/assets/dns-1.png)
 ![class5](/assets/dns-2.png)
 
-3. **Give IP address**
-   - Configure IP addresses on interfaces
-   - Example: `interface GigabitEthernet0/0 ip address 192.168.1.1 255.255.255.0`
+3. **Mail Server**
+   - Go to mail server
+   - turn on mail server
+   - add domail andother info
+   - send email from 1 pc to another
 
 4. **Add static route**
    - Navigate to routing configuration
