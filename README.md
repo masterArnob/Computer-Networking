@@ -25,9 +25,14 @@
 ![class5](/assets/dhcp-1.png)
 ![class5](/assets/dhcp-2.png)
 
-2. **Router WIC-2T and router restart**
-   - Install WIC-2T module if needed
-   - Restart router to recognize new hardware
+2. **Web Server**
+   - Go to server https and edit index
+   - go t any pc and browser and search 192.168.10.3
+   - go to dns server and services dns turn on dns
+   - add info
+![class5](/assets/dhcp.png)
+![class5](/assets/dns-1.png)
+![class5](/assets/dns-2.png)
 
 3. **Give IP address**
    - Configure IP addresses on interfaces
