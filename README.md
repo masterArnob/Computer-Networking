@@ -25,7 +25,7 @@
 ![class5](/assets/dhcp-1.png)
 ![class5](/assets/dhcp-2.png)
 
-2. **Web Server**
+2. **Web Server & DNS Server**
    - Go to server https and edit index
    - go t any pc and browser and search 192.168.10.3
    - go to dns server and services dns turn on dns
