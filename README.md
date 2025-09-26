@@ -1,9 +1,28 @@
+<h1 align="center">🌐 Computer Networking </h1>
+
+<p align="center">
+  Complete guide for server, routing, and NAT configurations.<br>
+  Step-by-step instructions with commands and screenshots for Classes 1-8 
+</p>
+
+---
+
+## 📑 Table of Contents
+- [Class 1-5: Servers](#class-1-5-servers)  
+- [Class 5: Static Routing Setup](#class-5-static-routing-setup)  
+- [Class 6: RIP V1 Setup](#class-6-rip-v1-setup)  
+- [Class 7: OSPF Setup](#class-7-ospf-setup)  
+- [Class 8: Static NAT Setup](#class-8-static-nat-setup)  
+
+---
+
 ## Class-1-5: Servers
-1.DHCP Serveer
-1. Web Server
-2. DNS Server
-4. Mail Server
-5. FTP Server
+
+1. DHCP Server  
+2. Web Server  
+3. DNS Server  
+4. Mail Server  
+5. FTP Server  
 
 
 1. **DHCP Server**
