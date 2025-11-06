@@ -193,6 +193,7 @@
    ```
 
 ![class8](/assets/static_nat.png)
+Core concepts of CN Note: https://github.com/masterArnob/Computer-Networking/blob/main/CN%20concepts.pdf
 
 
 
